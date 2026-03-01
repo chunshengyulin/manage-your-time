@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow - Daily Planner & Reminder",
+  "description": "A smart daily To-Do list with time-based reminders, desktop notifications, and audio alerts to keep you on track.",
+  "requestFramePermissions": ["notifications"]
+}
